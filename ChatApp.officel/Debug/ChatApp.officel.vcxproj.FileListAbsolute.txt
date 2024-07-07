@@ -1,0 +1,19 @@
+C:\Users\hp\source\repos\ChatApp.officel\ChatApp.officel\Debug\ChatApp.officel.vcxproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ChatApp.officel\ChatApp.officel\Debug\ChatAppofficel.MyLoginForm.resources
+C:\Users\hp\source\repos\ChatApp.officel\ChatApp.officel\Debug\ChatApp.officel.vcxproj.GenerateResource.cache
+C:\Users\hp\source\repos\ChatApp.officel\ChatApp.officel\Debug\ChatApp.officel.vcxproj.CopyComplete
+C:\Users\hp\source\repos\ChatApp.officel\ChatApp.officel\Debug\ChatAppofficel.RegisterForm.resources
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\Debug\ChatApp.officel.vcxproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\Debug\ChatAppofficel.MyLoginForm.resources
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\Debug\ChatAppofficel.RegisterForm.resources
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\Debug\ChatApp.officel.vcxproj.GenerateResource.cache
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\Debug\ChatApp.officel.vcxproj.CopyComplete
+C:\Users\hp\3D Objects\ChatApp.officel\ChatApp.officel\Debug\ChatApp.officel.vcxproj.AssemblyReference.cache
+C:\Users\hp\3D Objects\ChatApp.officel\ChatApp.officel\Debug\ChatAppofficel.MyLoginForm.resources
+C:\Users\hp\3D Objects\ChatApp.officel\ChatApp.officel\Debug\ChatAppofficel.RegisterForm.resources
+C:\Users\hp\3D Objects\ChatApp.officel\ChatApp.officel\Debug\ChatApp.officel.vcxproj.GenerateResource.cache
+C:\Users\hp\3D Objects\ChatApp.officel\ChatApp.officel\Debug\ChatApp.officel.vcxproj.CopyComplete
+C:\Users\hp\Desktop\ChatApp.officel\Debug\ChatApp.officel.exe.config
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\Debug\ChatApp.officel.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\Debug\ChatApp.officel.exe.config
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\Debug\ChatAppofficel.FormDiscuss.resources

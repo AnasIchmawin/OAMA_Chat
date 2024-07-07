@@ -1,0 +1,70 @@
+  ChatAppofficel.FormDiscuss.resources - Embedded, ContainedInManifestFile, 
+  ChatAppofficel.MyLoginForm.resources - Embedded, ContainedInManifestFile, 
+  ChatAppofficel.RegisterForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly ChatApp.officel, Version=0.0.*, Culture=Langue indifférente (Pays indifférent): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Antlr3.Runtime, Version=3.3.1.7705, Culture=neutral, PublicKeyToken=4186e2f4d936d3c2: 
+	hash=None, flags=None
+Assembly Bunifu_UI_v1.52, Version=1.3.*, Culture=Langue indifférente (Pays indifférent): 
+	hash=None, flags=None
+Assembly MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d: 
+	hash=None, flags=None
+Assembly MySql.Data.Entity, Version=6.9.8.99, Culture=neutral, PublicKeyToken=c5687fc88969c44d: 
+	hash=None, flags=None
+Assembly MySql.Debugger, Version=2.0.*, Culture=Langue indifférente (Pays indifférent): 
+	hash=None, flags=None
+Assembly MySql.Debugger.VisualStudio, Version=2.0.*, Culture=Langue indifférente (Pays indifférent): 
+	hash=None, flags=None
+Assembly MySql.Parser, Version=2.0.*, Culture=Langue indifférente (Pays indifférent): 
+	hash=None, flags=None
+Assembly MySql.VisualStudio, Version=2.0.*, Culture=Langue indifférente (Pays indifférent): 
+	hash=None, flags=None
+Assembly MySql.Web, Version=6.9.8.99, Culture=neutral, PublicKeyToken=c5687fc88969c44d: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51: 
+	hash=None, flags=None
+Class ChatAppofficel.FormDiscuss: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String username : Public
+    System.ComponentModel.Container components : Public
+  Methods:
+    UpdateTextBox3(String): PrivateScope, Public, HideBySig
+    InitializeComponent(): PrivateScope, Public, HideBySig
+Class User: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Username : Public
+    System.String Email : Public
+    System.String Password : Public
+Class ChatAppofficel.MyLoginForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    User user : Public
+    Boolean switchtodiscuss : Public
+    System.String usernameValue : Public
+    Boolean switchtoregister : Public
+Class ChatAppofficel.RegisterForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean switchtologin : Public

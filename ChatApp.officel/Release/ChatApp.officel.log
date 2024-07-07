@@ -1,0 +1,801 @@
+﻿  MyLoginForm.cpp
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(41,11): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(41,47): error C2143: erreur de syntaxe : absence de ';' avant '^'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(41,47): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(41,63): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(42,11): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(42,47): error C2143: erreur de syntaxe : absence de ';' avant '^'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(42,47): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(42,63): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(43,11): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(43,47): error C2143: erreur de syntaxe : absence de ';' avant '^'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(43,47): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(43,63): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(44,11): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(44,47): error C2143: erreur de syntaxe : absence de ';' avant '^'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(44,47): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(44,63): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(75,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(75,34): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(75,57): error C2061: erreur de syntaxe : identificateur 'BunifuTextbox'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(76,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(76,34): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(76,57): error C2061: erreur de syntaxe : identificateur 'BunifuTextbox'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(77,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(77,34): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(77,57): error C2061: erreur de syntaxe : identificateur 'BunifuTextbox'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(78,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(78,34): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(78,57): error C2061: erreur de syntaxe : identificateur 'BunifuTextbox'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(106,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(107,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(108,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(109,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(110,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(111,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(112,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(113,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(114,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(115,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(116,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(120,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(121,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(122,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(123,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(124,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(125,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(126,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(127,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(128,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(129,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(130,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(134,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(135,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(136,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(137,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(138,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(139,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(140,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(141,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(142,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(143,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(144,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(148,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(149,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(150,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(151,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(152,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(153,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(154,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(155,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(156,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(157,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(158,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(264,30): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(265,30): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(266,30): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(267,30): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(46,11): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(46,47): error C2143: erreur de syntaxe : absence de ';' avant '^'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(46,47): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(46,63): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(47,11): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(47,47): error C2143: erreur de syntaxe : absence de ';' avant '^'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(47,47): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(47,63): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(86,10): error C2039: 'bunifuTextbox2' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(86,34): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(86,57): error C2061: erreur de syntaxe : identificateur 'BunifuTextbox'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(87,10): error C2039: 'bunifuTextbox1' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(87,34): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(87,57): error C2061: erreur de syntaxe : identificateur 'BunifuTextbox'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(102,10): error C2039: 'bunifuTextbox2' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(103,10): error C2039: 'bunifuTextbox2' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(104,10): error C2039: 'bunifuTextbox2' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(105,10): error C2039: 'bunifuTextbox2' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(106,10): error C2039: 'bunifuTextbox2' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(107,10): error C2039: 'bunifuTextbox2' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(108,10): error C2039: 'bunifuTextbox2' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(109,10): error C2039: 'bunifuTextbox2' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(110,10): error C2039: 'bunifuTextbox2' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(111,10): error C2039: 'bunifuTextbox2' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(112,10): error C2039: 'bunifuTextbox2' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(113,10): error C2039: 'bunifuTextbox2' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(117,10): error C2039: 'bunifuTextbox1' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(118,10): error C2039: 'bunifuTextbox1' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(119,10): error C2039: 'bunifuTextbox1' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(120,10): error C2039: 'bunifuTextbox1' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(121,10): error C2039: 'bunifuTextbox1' n'est pas membre de 'ChatAppofficel::MyLoginForm'
+  (compiler le fichier source 'MyLoginForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::MyLoginForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\MyLoginForm.h(121,10): error C1003: le nombre d'erreurs est supérieur à 100 ; arrêt de la compilation
+  (compiler le fichier source 'MyLoginForm.cpp')
+  
+  RegisterForm.cpp
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(41,11): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(41,47): error C2143: erreur de syntaxe : absence de ';' avant '^'
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(41,47): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(41,63): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(42,11): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(42,47): error C2143: erreur de syntaxe : absence de ';' avant '^'
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(42,47): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(42,63): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(43,11): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(43,47): error C2143: erreur de syntaxe : absence de ';' avant '^'
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(43,47): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(43,63): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(44,11): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(44,47): error C2143: erreur de syntaxe : absence de ';' avant '^'
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(44,47): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(44,63): error C2238: jetons inattendus avant ';'
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(75,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(75,34): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(75,57): error C2061: erreur de syntaxe : identificateur 'BunifuTextbox'
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(76,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(76,34): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(76,57): error C2061: erreur de syntaxe : identificateur 'BunifuTextbox'
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(77,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(77,34): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(77,57): error C2061: erreur de syntaxe : identificateur 'BunifuTextbox'
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(78,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(78,34): error C2653: 'Bunifu' : n'est pas un nom de classe ni d'espace de noms
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(78,57): error C2061: erreur de syntaxe : identificateur 'BunifuTextbox'
+  (compiler le fichier source 'RegisterForm.cpp')
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(106,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(107,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(108,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(109,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(110,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(111,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(112,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(113,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(114,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(115,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(116,10): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(120,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(121,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(122,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(123,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(124,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(125,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(126,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(127,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(128,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(129,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(130,10): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(134,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(135,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(136,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(137,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(138,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(139,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(140,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(141,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(142,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(143,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(144,10): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(148,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(149,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(150,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(151,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(152,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(153,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(154,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(155,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(156,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(157,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(158,10): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(264,30): error C2039: 'bunifuTextbox6' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(265,30): error C2039: 'bunifuTextbox5' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(266,30): error C2039: 'bunifuTextbox4' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(267,30): error C2039: 'bunifuTextbox3' n'est pas membre de 'ChatAppofficel::RegisterForm'
+  (compiler le fichier source 'RegisterForm.cpp')
+  C:\Users\hp\Desktop\ChatApp.officel\ChatApp.officel\RegisterForm.h(15,19):
+  voir la déclaration de 'ChatAppofficel::RegisterForm'
+  
+  Génération de code en cours...
